@@ -1,0 +1,33 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+datasets/
+dataset/
+
+# Generated reconstruction outputs
+outputs/
+*.ply
+*.obj
+*.stl
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+
+# VS Code local settings
+.vscode/
